@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parse-server</string>
+    <string name="parse_server_url">http://partygoer.org:1337/parse/</string>
+    <string name="parse_app_id">test123</string>
+</resources>
